@@ -1,1 +1,1 @@
-# syncAndAsyncInDjango
+# Synchronous and Asynchronous examples in Django
